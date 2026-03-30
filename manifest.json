@@ -1,0 +1,16 @@
+{
+  "name": "How to Rebuild Credit After Bankruptcy",
+  "short_name": "rebuildcreditafterbankruptcy.com",
+  "description": "Complete guide to rebuilding your credit score after Chapter 7 or Chapter 13 bankruptcy. Secured cards, credit builder loans, auto loans, mortgages, and timelines.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
