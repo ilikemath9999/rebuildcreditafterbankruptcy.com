@@ -62,7 +62,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -132,7 +132,7 @@ Related Topics
 
 Buying a House After BKThe Automatic StayChapter 7 vs Chapter 13
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 Support on GitHub
 
 Further Reading & Resources
@@ -191,7 +191,7 @@ Free bankruptcy education. Not legal advice.
 Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · On Report · FAQ
 
 This site provides general information only and does not constitute legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -285,7 +285,7 @@ Buying a House After BK
 Bankruptcy Fresh Start
 Chapter 7 vs Chapter 13
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Support on GitHub
 
@@ -345,7 +345,7 @@ Free bankruptcy education. Not legal advice.
 Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · On Report · FAQ
 
 This site provides general information only and does not constitute legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -418,7 +418,7 @@ Rule 9037 PII Scanner (Open Source)
 
 Improving Credit for MortgageBankruptcy Fresh Start524 Discharge Injunction
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 Support on GitHub
 
 Further Reading & Resources
@@ -477,7 +477,7 @@ Free bankruptcy education. Not legal advice.
 Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · Monitoring · FAQ
 
 This site provides general information only and does not constitute legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -583,7 +583,7 @@ Bankruptcy Fresh Start
 What Is Chapter 7?
 Chapter 7 vs Chapter 13
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Support on GitHub
 
@@ -643,7 +643,7 @@ Free bankruptcy education. Not legal advice.
 Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · On Report · FAQ
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -705,7 +705,7 @@ Is debt consolidation better than bankruptcy?
 
 It depends. Debt consolidation does not reduce principal - it restructures payments. Bankruptcy eliminates qualifying debt under 11 U.S.C. § 727 (Chapter 7) or reduces it through a plan under § 1325 (Chapter 13). If debts are unmanageable, bankruptcy often provides a faster, more complete fresh start.
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 Support on GitHub
 
 Further Reading & Resources
@@ -764,7 +764,7 @@ Free bankruptcy education. Not legal advice.
 Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · On Report · FAQ
 
 This site provides general information only and does not constitute legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -828,7 +828,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -906,7 +906,7 @@ Related Topics
 
 File Bankruptcy Again1328(f) Discharge ScreenerDischarge Bar Rules
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 Support on GitHub
 
 Further Reading & Resources
@@ -965,7 +965,7 @@ Free bankruptcy education. Not legal advice.
 Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · On Report · FAQ
 
 This site provides general information only and does not constitute legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -1156,7 +1156,7 @@ We buy federal court records and donate them to RECAP so no one has to pay. Brow
 
 $16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.
 
 Support on GitHub
 
@@ -1311,7 +1311,7 @@ On Report ·
 FAQ
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -1397,7 +1397,7 @@ Related Topics
 
 Buying a House After BKFHA Loans After BKVA Loans After BK
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 Support on GitHub
 
 Further Reading & Resources
@@ -1456,7 +1456,7 @@ Free bankruptcy education. Not legal advice.
 Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · On Report · FAQ
 
 This site provides general information only and does not constitute legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -1520,7 +1520,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -1605,7 +1605,7 @@ Improving Credit for Mortgage
 Bankruptcy Fresh Start
 How Much Does BK Cost?
 
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Support on GitHub
 
@@ -1665,7 +1665,7 @@ Free bankruptcy education. Not legal advice.
 Home · Timeline · Secured Cards · Builder Loans · Auto Loans · Mortgage · On Report · FAQ
 
 This site provides general information only and does not constitute legal advice.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 Privacy | Terms | Open Bankruptcy Project
 
@@ -1795,7 +1795,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -1921,7 +1921,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -2047,7 +2047,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -2173,7 +2173,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -2299,7 +2299,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -2425,7 +2425,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -2551,7 +2551,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -2677,7 +2677,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -2803,7 +2803,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -2929,7 +2929,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -3055,7 +3055,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -3181,7 +3181,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -3307,7 +3307,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -3433,7 +3433,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -3557,7 +3557,7 @@ Wyoming
 
 Free bankruptcy education. Not legal advice.
 
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -3683,7 +3683,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -3809,7 +3809,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -3935,7 +3935,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -4061,7 +4061,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -4187,7 +4187,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -4313,7 +4313,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -4439,7 +4439,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -4565,7 +4565,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -4691,7 +4691,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -4817,7 +4817,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -4943,7 +4943,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -5069,7 +5069,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -5195,7 +5195,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -5321,7 +5321,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -5447,7 +5447,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -5573,7 +5573,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -5699,7 +5699,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -5825,7 +5825,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -5951,7 +5951,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -6077,7 +6077,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -6203,7 +6203,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -6329,7 +6329,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -6455,7 +6455,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -6581,7 +6581,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -6707,7 +6707,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -6833,7 +6833,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -6959,7 +6959,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -7085,7 +7085,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -7211,7 +7211,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -7337,7 +7337,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -7463,7 +7463,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -7589,7 +7589,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -7715,7 +7715,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -7841,7 +7841,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -7967,7 +7967,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -8093,7 +8093,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -8219,7 +8219,7 @@ FAQ ·
 By State
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
 
 ---
 
@@ -8279,7 +8279,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
